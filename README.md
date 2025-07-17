@@ -29,11 +29,11 @@ This repository contains articles, GitHub repos and Kaggle kernels which provide
 19. [Drug Classification using state-of-the-art ML Algo](https://www.kaggle.com/themlphdstudent/drug-classification-using-state-of-the-art-ml-algo)
 20. [Box Office Revenue Analysis and Visualization](https://www.kaggle.com/themlphdstudent/box-office-revenue-analysis-and-visualization)
 21. [Heart Disease - Classifications (Machine Learning)](https://www.kaggle.com/cdabakoglu/heart-disease-classifications-machine-learning)
-22. [🦉Birdcall Recognition: EDA and Audio FE](https://www.kaggle.com/andradaolteanu/birdcall-recognition-eda-and-audio-fe)
+22. [Birdcall Recognition: EDA and Audio FE](https://www.kaggle.com/andradaolteanu/birdcall-recognition-eda-and-audio-fe)
 23. [Coronavirus (COVID-19) Visualization & Prediction](https://www.kaggle.com/therealcyberlord/coronavirus-covid-19-visualization-prediction)
 24. [Santander EDA and Prediction](https://www.kaggle.com/gpreda/santander-eda-and-prediction)
 
 ## Contributions
 All contributions are welcome. Create a [pull request](https://github.com/durgeshsamariya/Data-Science-Machine-Learning-Project-with-Source-Code/pulls) to add more projects with code or kaggle kernels.
 
-### Don't forget to hit the ⭐, If you like this repo.
+### Don't forget to hit the star , If you like this repo.
